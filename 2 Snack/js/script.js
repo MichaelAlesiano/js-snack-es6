@@ -3,9 +3,9 @@
 const numeri = [5, 6, 7, 8, 9, 10];
 console.log(numeri);
 
-let numeriPari = 'I numeri pari sono : ';
+const numeriPari = 'I numeri pari sono : ';
 
-let numeriDispari = 'I numeri dispari sono : ';
+const numeriDispari = 'I numeri dispari sono : ';
 
 document.getElementById('stampa').innerHTML =
 `
